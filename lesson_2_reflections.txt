@@ -4,3 +4,8 @@ Ans = It creates an empty git repository
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Ans = It differs from working directory and repository because it is the temporary hold for a commit before it is made 
 
+How can you use the staging area to make sure you have one commit per logical change?
+Ans = By using it to review how many logical changes were in a a commit 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Ans = In case of test running new features 
