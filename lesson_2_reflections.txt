@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+Ans = It creates an empty git repository 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Ans = It differs from working directory and repository because it is the temporary hold for a commit before it is made 
+
