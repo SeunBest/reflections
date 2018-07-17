@@ -9,3 +9,6 @@ Ans = By using it to review how many logical changes were in a a commit
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Ans = In case of test running new features 
+
+How do the diagrams help you visualize the branch structure?
+Ans = They help see the commits reacheability vividly 
