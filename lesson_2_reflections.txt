@@ -12,3 +12,6 @@ Ans = In case of test running new features
 
 How do the diagrams help you visualize the branch structure?
 Ans = They help see the commits reacheability vividly 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Ans = It gives us a combination of the features on both branches
