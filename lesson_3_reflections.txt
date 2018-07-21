@@ -14,3 +14,8 @@ Ans = It allows you to be able to work offline and merge commits offline before 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Ans = We can collaborate manually by physically bringin the collaborators together. Physical collaboration is a lot harder than using Git
 or GitHub
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Ans = I would make changes in a separate branch rather than master when I want to test out a new feature or modification to master and its
+advantage is that I don't get to break master or add a feature that others don't approve of. The advantage of working directly on master 
+is that it is faster and seemingly easier
