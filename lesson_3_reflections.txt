@@ -5,7 +5,12 @@ Why might you want to always pull changes manually rather than having Git automa
 Ans = Manaual push and pull changes helps me to update my Git repository when needed, making the right and logical updates
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
-Ans = Forks are used to clone from another GitHub account to yours when you don't have the permission to edit it while clones are used to download repositories from GitHub to your local machine  and branches are like diversions to work on diferent concepts in a project
+Ans = Forks are used to clone from another GitHub account to yours when you don't have the permission to edit it while clones are used to
+download repositories from GitHub to your local machine  and branches are like diversions to work on diferent concepts in a project
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Ans = It allows you to be able to work offline and merge commits offline before eventually pushing to the remote
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Ans = We can collaborate manually by physically bringin the collaborators together. Physical collaboration is a lot harder than using Git
+or GitHub
